@@ -1,6 +1,6 @@
 <template>
   <header>
-    <VAppBar absolute elevate-on-scroll>
+    <VAppBar app elevate-on-scroll>
       <VToolbarTitle>
         <VBtn @click="moveToTop()" x-large depressed>Horisho's Portfolio</VBtn>
       </VToolbarTitle>
