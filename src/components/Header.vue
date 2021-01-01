@@ -1,14 +1,14 @@
 <template>
   <header>
-    <VAppBar app elevate-on-scroll>
+    <VAppBar app elevate-on-scroll color="primary">
       <VToolbarTitle>
-        <VBtn @click="moveToTop()" x-large depressed>Horisho's Portfolio</VBtn>
+        <VBtn @click="moveToTop()" x-large depressed color="primary black--text">Horisho's Portfolio</VBtn>
       </VToolbarTitle>
 
       <VSpacer></VSpacer>
 
       <VToolbarItems>
-        <VBtn v-for="item in items" :key="item.title" :href="item.route" depressed>{{
+        <VBtn v-for="item in items" :key="item.title" :href="item.route" depressed color="primary black--text">{{
           item.title
         }}</VBtn>
       </VToolbarItems>
@@ -40,7 +40,6 @@ export default {
 
 <style scoped>
 header {
-  width: 100%;
   position: fixed;
   top: 0;
   z-index: 10;
