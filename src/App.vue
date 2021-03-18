@@ -2,6 +2,7 @@
   <div id="app">
     <VApp>
       <Header/>
+      <div style="height:54px;"></div>
       <router-view/>
     </VApp>
   </div>

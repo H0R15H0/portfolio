@@ -1,9 +1,13 @@
 <template>
   <VContainer>
-    <About id="about" class="header-space"/>
-    <Skills id="skills" class="header-space"/>
-    <Products id="products" class="header-space"/>
-    <Posts id="posts" class="header-space"/>
+    <VRow>
+      <VCol cols="12">
+        <About id="about"/>
+        <Skills id="skills"/>
+        <Products id="products"/>
+        <Posts id="posts"/>
+      </VCol>
+    </VRow>
   </VContainer>
 </template>
 
@@ -25,7 +29,4 @@ export default {
 </script>
 
 <style scoped>
-  .header-space {
-    padding-top: 64px;
-  }
 </style>
