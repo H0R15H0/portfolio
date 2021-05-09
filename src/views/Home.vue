@@ -3,7 +3,7 @@
     <VRow>
       <VCol cols="12">
         <About id="about"/>
-        <!-- <Skills id="skills"/> -->
+        <Skills id="skills"/>
         <Products id="products"/>
         <!-- <Posts id="posts"/> -->
       </VCol>
@@ -13,7 +13,7 @@
 
 <script>
 import About from '@/components/About'
-// import Skills from '@/components/Skills'
+import Skills from '@/components/Skills'
 import Products from '@/components/Products'
 // import Posts from '@/components/Posts'
 
@@ -21,7 +21,7 @@ export default {
   name: 'Home',
   components: {
     About,
-    // Skills,
+    Skills,
     Products,
     // Posts,
   }
