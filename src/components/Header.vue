@@ -8,7 +8,7 @@
       <VSpacer></VSpacer>
 
       <VToolbarItems>
-        <VBtn v-for="item in items" :key="item.title" :href="item.route" depressed color="primary black--text" small>
+        <VBtn v-for="item in items" :key="item.title" :href="item.route" depressed color="primary black--text" x-small>
         {{ item.title }}
         </VBtn>
       </VToolbarItems>
@@ -23,7 +23,7 @@ export default {
     return {
       items: [
         { title: "About", route: "/#about"},
-        // { title: "Skills", route: "/#skills"},
+        { title: "Skills", route: "/#skills"},
         { title: "Products", route: "/#products"},
         // { title: "Posts", route: "/#posts"},
       ],
