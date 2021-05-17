@@ -29,7 +29,7 @@ export default {
         { title: "nikoha", url: "https://github.com/jphacks/C_2012", skill: "HTML, CSS, JS, flask, openCV" , text: '2人の笑顔ではんこを押せる、オンライン提出用の婚姻届作成サービス.「本人の意思確認をしつつ文書のデジタル化を進めたい」「婚姻届にはんこを押すことの価値はそのまま残したい」というコンフリクトを解消すべく、婚姻届作成サービス「nikoha（にこは）」を開発することにしました。' },
         { title: "お家Bar", url: "http://www.ouchi-bar.com/", skill: "ruby on rails, Vue.js" , text: '宅飲み用のアプリ。DBには１万種類のカクテルが登録されており、所持しているお酒やソフトドリンクを入力すると作れるカクテルを表示してくれます。※現在改良中' },
         { title: "trimo", url: "https://trimo.netlify.app/", skill: "ruby on rails, Vue.js" , text: '「旅の選択肢を増や」したい「旅先に迷っている人」向けの「トリモ/Trimo」というプロダクトは、「他の人の旅の記録を参考にできるサービス」です。これは「自分の旅を記録し、それを他の人が参考」にでき、「旅行雑誌・旅行アプリ」とは違って「旅の記録を共有する機能」が備わっています。' },
-        { title: "オフラトゥーン", url: "https://offlatoon.netlify.app/index.html", skill: "fastapi, GoogleMapsAPI, html, css, js", text: "jackHack2021で作成したオフライン陣取りWebゲーム。GoogleMap上で通った場所が自分の陣地となり競ってもらいます。※GoogleMapAPI停止中です" }
+        { title: "オフラトゥーン", url: "https://offlatoon.netlify.app/index.html", skill: "fastapi, GoogleMapsAPI, html, css, js", text: "サークル内ハッカソンで作成したオフライン陣取りWebゲーム。GoogleMap上で通った場所が自分の陣地となり競ってもらいます。※GoogleMapAPI停止中です" }
       ]
     }
   }
