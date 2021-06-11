@@ -1,5 +1,8 @@
 <template>
   <VContainer>
+    <VRow justify="center">
+      <h1>About</h1>
+    </VRow>
     <VRow justify="center" align="center">
       <VCol sm="3" cols="12">
         <VImg :src="require('../assets/horisho.jpeg')" max-width="30vw" max-height="30vh" style="margin:auto;" contain ></VImg>
@@ -13,7 +16,6 @@
         </VList>
       </VCol>
     </VRow>
-    <h1>About</h1>
     <VRow justify="center">
       <VCol sm="9" cols="12" class="text-left">
         名古屋大学情報学部コンピュータ科学科に所属する３年生です。<br>

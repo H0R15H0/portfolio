@@ -1,6 +1,8 @@
 <template>
   <VContainer>
-   <h1>Skills</h1>
+    <VRow justify="center">
+      <h1>Skills</h1>
+    </VRow>
     <VRow>
       <VCol cols="12" sm="6" v-for="(item, i) in items" :key="i">
         <VCard elevation="0">
