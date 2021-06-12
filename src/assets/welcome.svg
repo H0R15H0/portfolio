@@ -1,0 +1,1289 @@
+<svg width="882" height="197" viewBox="0 0 882 197" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      #wrap_all path {
+        fill: #111;
+        stroke: #111;
+        stroke-width: 2px;
+      }
+
+      #wrap_all .txt_01 { animation: txt_01 10s both; }
+      #wrap_all .txt_02 { animation: txt_02 10s both; }
+      #wrap_all .txt_03 { animation: txt_03 10s both; }
+      #wrap_all .txt_04 { animation: txt_04 10s both; }
+      #wrap_all .txt_05 { animation: txt_05 10s both; }
+      #wrap_all .txt_06 { animation: txt_06 10s both; }
+      #wrap_all .txt_07 { animation: txt_07 10s both; }
+      #wrap_all .txt_08 { animation: txt_08 10s both; }
+      #wrap_all .txt_09 { animation: txt_09 10s both; }
+      #wrap_all .txt_09 { animation: txt_09 10s both; }
+      #wrap_all .txt_10 { animation: txt_10 10s both; }
+      #wrap_all .txt_11 { animation: txt_11 10s both; }
+      #wrap_all .txt_12 { animation: txt_12 10s both; }
+      #wrap_all .txt_13 { animation: txt_13 10s both; }
+      #wrap_all .txt_14 { animation: txt_14 10s both; }
+      #wrap_all .txt_15 { animation: txt_15 10s both; }
+      #wrap_all .txt_16 { animation: txt_16 10s both; }
+      #wrap_all .txt_17 { animation: txt_17 10s both; }
+      #wrap_all .txt_18 { animation: txt_18 10s both; }
+      #wrap_all .txt_19 { animation: txt_19 10s both; }
+      #wrap_all .txt_20 { animation: txt_20 10s both; }
+      #wrap_all .txt_21 { animation: txt_21 10s both; }
+      #wrap_all .txt_22 { animation: txt_22 10s both; }
+      #wrap_all .txt_23 { animation: txt_23 10s both; }
+      #wrap_all .txt_24 { animation: txt_24 10s both; }
+      #wrap_all .txt_25 { animation: txt_25 10s both; }
+      #wrap_all .txt_26 { animation: txt_26 10s both; }
+      #wrap_all .txt_27 { animation: txt_27 10s both; }
+      #wrap_all .txt_28 { animation: txt_28 10s both; }
+      #wrap_all .txt_29 { animation: txt_29 10s both; }
+      #wrap_all .txt_30 { animation: txt_30 10s both; }
+      #wrap_all .txt_31 { animation: txt_31 10s both; }
+      #wrap_all .txt_32 { animation: txt_32 10s both; }
+      #wrap_all .txt_33 { animation: txt_33 10s both; }
+      #wrap_all .txt_34 { animation: txt_34 10s both; }
+      #wrap_all .txt_35 { animation: txt_35 10s both; }
+      #wrap_all .txt_36 { animation: txt_36 10s both; }
+      #wrap_all .txt_37 { animation: txt_37 10s both; }
+      #wrap_all .txt_38 { animation: txt_38 10s both; }
+      #wrap_all .txt_39 { animation: txt_39 10s both; }
+      #wrap_all .txt_40 { animation: txt_40 10s both; }
+      #wrap_all .txt_41 { animation: txt_41 10s both; }
+      #wrap_all .txt_42 { animation: txt_42 10s both; }
+      #wrap_all .txt_43 { animation: txt_43 10s both; }
+      #wrap_all .txt_44 { animation: txt_44 10s both; }
+      #wrap_all .txt_45 { animation: txt_45 10s both; }
+      #wrap_all .txt_46 { animation: txt_46 10s both; }
+      #wrap_all .txt_47 { animation: txt_47 10s both; }
+      #wrap_all .txt_48 { animation: txt_48 10s both; }
+      #wrap_all .txt_49 { animation: txt_49 10s both; }
+      #wrap_all .txt_50 { animation: txt_50 10s both; }
+      #wrap_all .txt_51 { animation: txt_51 10s both; }
+      #wrap_all .txt_52 { animation: txt_52 10s both; }
+      #wrap_all .txt_53 { animation: txt_53 10s both; }
+
+      @keyframes txt_01 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        1% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        11%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_02 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        2% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        12%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_03 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        3% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        13%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_04 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        4% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        14%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_05 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        5% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        15%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_06 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        6% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        16%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_07 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        7% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        17%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_08 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        8% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        18%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_09 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        9% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        19%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_10 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        10% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        20%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_11 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        11% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        21%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_12 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        12% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        22%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_13 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        13% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        23%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_14 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        14% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        24%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_15 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        15% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        25%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_16 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        16% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        26%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_17 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        17% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        27%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_18 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        18% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        28%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_19 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        19% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        29%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_20 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        20% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        30%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_21 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        21% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        31%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_22 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        22% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        32%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_23 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        23% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        33%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_24 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        24% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        34%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_25 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        25% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        35%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_26 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        26% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        36%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_27 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        27% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        37%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_28 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        28% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        38%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_29 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        29% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        39%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_30 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        30% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        40%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_31 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        31% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        41%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_32 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        32% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        42%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_33 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        33% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        43%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_34 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        34% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        44%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_35 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        35% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        45%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_36 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        36% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        46%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_37 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        37% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        47%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_38 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        38% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        48%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_39 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        39% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        49%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_40 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        40% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        50%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_41 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        41% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        51%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_42 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        42% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        52%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_43 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        43% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        53%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_44 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        44% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        54%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_45 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        45% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        55%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_46 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        46% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        56%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_47 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        47% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        57%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_48 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        48% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        58%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_49 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        49% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        59%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_50 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        50% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        60%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_51 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        51% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        61%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_52 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        52% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        62%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+      @keyframes txt_53 {
+        0% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        53% {
+          fill: transparent;
+          stroke-dasharray: 2000px;
+          stroke-dashoffset: 2000px;
+        }
+        63%{ <!-- 描画開始 -->
+          fill: transparent;
+          stroke-dashoffset: 0;
+        }
+        65%{
+          fill: transparent;
+        }
+        80%{
+          fill: #111;
+        }
+      }
+    </style>
+  </defs>
+  <g id="wrap_all" data-name="SVG全体をグループ">
+    <path class="txt_01" d="M152.047 63.5312L165.172 3.90625H169.578V28.9375L159.359 73.375H144.641L127.109 3.90625H139.859L152.047 63.5312Z"/>>
+    <path class="txt_02" d="M203.328 3.90625H216.078L197.422 73.375H182.797L173.422 30.7188V3.90625H177.922L190.109 63.5312L203.328 3.90625Z"/>
+    <path class="txt_03" d="M255.359 19.6562C258.734 19.9688 261.766 20.875 264.453 22.375C267.203 23.875 269.547 25.8125 271.484 28.1875C273.422 30.5625 274.891 33.2812 275.891 36.3438C276.953 39.4062 277.484 42.5938 277.484 45.9062C277.484 47.4062 277.391 48.9062 277.203 50.4062H245.047V42.1562H266.703C266.703 40.5312 266.422 38.9688 265.859 37.4688C265.359 35.9688 264.578 34.5938 263.516 33.3438C262.516 32.0312 261.328 30.9375 259.953 30.0625C258.578 29.1875 257.047 28.6562 255.359 28.4688V19.6562Z"/>
+    <path class="txt_04" d="M254.984 64.1875C255.672 64.1875 256.516 64.125 257.516 64C258.578 63.8125 259.672 63.5312 260.797 63.1562C261.984 62.7188 263.141 62.1875 264.266 61.5625C265.453 60.9375 266.484 60.1875 267.359 59.3125L271.484 65.5938C269.422 68.1562 267.016 70.0938 264.266 71.4062C261.516 72.7188 258.016 73.375 253.766 73.375C250.328 73.375 247.109 72.6875 244.109 71.3125C241.109 69.875 238.547 67.9375 236.422 65.5C234.297 63.0625 232.609 60.2188 231.359 56.9688C230.109 53.7188 229.484 50.2188 229.484 46.4688C229.484 42.9062 230.047 39.5312 231.172 36.3438C232.359 33.1562 233.953 30.375 235.953 28C237.953 25.5625 240.266 23.5938 242.891 22.0938C245.578 20.5938 248.453 19.75 251.516 19.5625V28.5625C249.203 29 247.297 29.9375 245.797 31.375C244.297 32.8125 243.109 34.4688 242.234 36.3438C241.422 38.1562 240.828 40.0312 240.453 41.9688C240.141 43.9062 239.984 45.5625 239.984 46.9375C239.984 49.375 240.266 51.6562 240.828 53.7812C241.453 55.8438 242.391 57.6562 243.641 59.2188C244.891 60.7188 246.422 61.9375 248.234 62.875C250.109 63.75 252.359 64.1875 254.984 64.1875Z"/>
+    <path class="txt_05" d="M304.297 56.875C304.297 59 304.578 60.6875 305.141 61.9375C305.703 63.125 306.484 64.0312 307.484 64.6562C308.484 65.2188 309.609 65.5938 310.859 65.7812C312.172 65.9688 313.578 66.0625 315.078 66.0625V73C314.266 73.125 313.422 73.2188 312.547 73.2812C311.859 73.3438 311.047 73.375 310.109 73.375C309.172 73.4375 308.234 73.4688 307.297 73.4688C306.359 73.4688 305.422 73.4375 304.484 73.375C303.547 73.3125 302.703 73.2188 301.953 73.0938C299.828 72.6562 298.172 71.7188 296.984 70.2812C295.797 68.8438 294.891 67.25 294.266 65.5C293.641 63.6875 293.234 61.9375 293.047 60.25C292.922 58.5625 292.859 57.25 292.859 56.3125V55.1875V0.15625H304.297V56.875Z"/>
+    <path class="txt_06" d="M362.234 33.8125C361.297 32.6875 359.984 31.6562 358.297 30.7188C356.672 29.7188 354.484 29.125 351.734 28.9375V19.9375C355.172 20.125 358.109 20.875 360.547 22.1875C363.047 23.4375 365.297 25.2812 367.297 27.7188L362.234 33.8125Z"/>
+    <path class="txt_07" d="M351.734 64.0938C353.984 63.8438 355.891 63.3125 357.453 62.5C359.078 61.625 360.609 60.625 362.047 59.5L366.266 65.5938C364.328 68.0312 362.234 69.9062 359.984 71.2188C357.734 72.4688 354.984 73.1875 351.734 73.375V64.0938Z"/>
+    <path class="txt_08" d="M325.578 46.5625C325.578 43 326.078 39.6562 327.078 36.5312C328.141 33.4062 329.672 30.6562 331.672 28.2812C333.672 25.9062 336.016 24 338.703 22.5625C341.453 21.0625 344.516 20.1875 347.891 19.9375V29.0312C344.766 29.7188 342.266 31.6562 340.391 34.8438C338.516 37.9688 337.578 41.7812 337.578 46.2812C337.578 48.5938 337.797 50.7812 338.234 52.8438C338.734 54.8438 339.422 56.625 340.297 58.1875C341.172 59.75 342.234 61.0625 343.484 62.125C344.797 63.1875 346.266 63.8438 347.891 64.0938V73.375C344.453 73.1875 341.359 72.375 338.609 70.9375C335.859 69.4375 333.516 67.5 331.578 65.125C329.641 62.6875 328.141 59.875 327.078 56.6875C326.078 53.5 325.578 50.125 325.578 46.5625Z"/>
+    <path class="txt_09" d="M406.766 19.8438C410.203 20.0312 413.328 20.875 416.141 22.375C418.953 23.8125 421.297 25.75 423.172 28.1875C425.109 30.5625 426.609 33.3438 427.672 36.5312C428.734 39.7188 429.266 43.125 429.266 46.75C429.266 50.375 428.703 53.7812 427.578 56.9688C426.516 60.0938 425.016 62.8438 423.078 65.2188C421.141 67.5312 418.766 69.4062 415.953 70.8438C413.141 72.2812 410.078 73.125 406.766 73.375V64.375C409.891 63.6875 412.422 61.7188 414.359 58.4688C416.359 55.2188 417.359 51.3125 417.359 46.75C417.359 44.4375 417.109 42.2812 416.609 40.2812C416.172 38.2188 415.484 36.375 414.547 34.75C413.609 33.125 412.484 31.7812 411.172 30.7188C409.859 29.6562 408.391 28.9688 406.766 28.6562V19.8438Z"/>
+    <path class="txt_09" d="M380.609 46.5625C380.609 42.9375 381.141 39.5625 382.203 36.4375C383.266 33.3125 384.766 30.5938 386.703 28.2812C388.703 25.9062 391.078 24 393.828 22.5625C396.578 21.125 399.609 20.25 402.922 19.9375V28.6562C399.797 29.3438 397.297 31.3125 395.422 34.5625C393.547 37.8125 392.609 41.7188 392.609 46.2812C392.609 48.5938 392.828 50.7812 393.266 52.8438C393.766 54.9062 394.453 56.75 395.328 58.375C396.203 60 397.266 61.3438 398.516 62.4062C399.828 63.4688 401.297 64.125 402.922 64.375V73.375C399.484 73.125 396.391 72.2812 393.641 70.8438C390.891 69.3438 388.547 67.4062 386.609 65.0312C384.672 62.6562 383.172 59.875 382.109 56.6875C381.109 53.5 380.609 50.125 380.609 46.5625Z"/>
+    <path class="txt_10" d="M454.203 20.125L455.422 25.5625V73H443.984V20.125H454.203Z"/>
+    <path class="txt_11" d="M498.453 19.5625C500.578 19.5625 502.578 20 504.453 20.875C506.328 21.6875 507.953 22.875 509.328 24.4375C510.766 26 511.859 27.875 512.609 30.0625C513.422 32.1875 513.828 34.5 513.828 37V73H502.578V44.2188C502.578 42.0938 502.547 40.0938 502.484 38.2188C502.484 36.2812 502.297 34.5625 501.922 33.0625C501.547 31.5625 500.922 30.4062 500.047 29.5938C499.234 28.7188 497.953 28.2812 496.203 28.2812C495.766 28.2812 494.828 28.375 493.391 28.5625C491.953 28.75 490.297 29.2812 488.422 30.1562V22.75C490.109 21.75 491.828 20.9688 493.578 20.4062C495.328 19.8438 496.953 19.5625 498.453 19.5625Z"/>
+    <path class="txt_12" d="M482.234 26.7812C482.984 27.9062 483.516 29.125 483.828 30.4375C484.203 31.6875 484.422 33 484.484 34.375C484.609 35.75 484.641 37.1875 484.578 38.6875C484.578 40.125 484.578 41.6562 484.578 43.2812V73H473.234V44.2188C473.234 42.0938 473.234 40.0938 473.234 38.2188C473.234 36.2812 473.047 34.5625 472.672 33.0625C472.297 31.5625 471.672 30.4062 470.797 29.5938C469.922 28.7188 468.641 28.2812 466.953 28.2812C466.203 28.2812 465.078 28.4375 463.578 28.75C462.141 29 460.703 29.4688 459.266 30.1562V22.75C460.766 21.875 462.359 21.1562 464.047 20.5938C465.797 20.0312 467.516 19.75 469.203 19.75C472.078 19.75 474.484 20.3438 476.422 21.5312C478.422 22.7188 480.359 24.4688 482.234 26.7812Z"/>
+    <path class="txt_13" d="M554.516 19.6562C557.891 19.9688 560.922 20.875 563.609 22.375C566.359 23.875 568.703 25.8125 570.641 28.1875C572.578 30.5625 574.047 33.2812 575.047 36.3438C576.109 39.4062 576.641 42.5938 576.641 45.9062C576.641 47.4062 576.547 48.9062 576.359 50.4062H544.203V42.1562H565.859C565.859 40.5312 565.578 38.9688 565.016 37.4688C564.516 35.9688 563.734 34.5938 562.672 33.3438C561.672 32.0312 560.484 30.9375 559.109 30.0625C557.734 29.1875 556.203 28.6562 554.516 28.4688V19.6562Z"/>
+    <path class="txt_14" d="M554.141 64.1875C554.828 64.1875 555.672 64.125 556.672 64C557.734 63.8125 558.828 63.5312 559.953 63.1562C561.141 62.7188 562.297 62.1875 563.422 61.5625C564.609 60.9375 565.641 60.1875 566.516 59.3125L570.641 65.5938C568.578 68.1562 566.172 70.0938 563.422 71.4062C560.672 72.7188 557.172 73.375 552.922 73.375C549.484 73.375 546.266 72.6875 543.266 71.3125C540.266 69.875 537.703 67.9375 535.578 65.5C533.453 63.0625 531.766 60.2188 530.516 56.9688C529.266 53.7188 528.641 50.2188 528.641 46.4688C528.641 42.9062 529.203 39.5312 530.328 36.3438C531.516 33.1562 533.109 30.375 535.109 28C537.109 25.5625 539.422 23.5938 542.047 22.0938C544.734 20.5938 547.609 19.75 550.672 19.5625V28.5625C548.359 29 546.453 29.9375 544.953 31.375C543.453 32.8125 542.266 34.4688 541.391 36.3438C540.578 38.1562 539.984 40.0312 539.609 41.9688C539.297 43.9062 539.141 45.5625 539.141 46.9375C539.141 49.375 539.422 51.6562 539.984 53.7812C540.609 55.8438 541.547 57.6562 542.797 59.2188C544.047 60.7188 545.578 61.9375 547.391 62.875C549.266 63.75 551.516 64.1875 554.141 64.1875Z"/>
+    <path class="txt_15" d="M667.203 3.90625V11.5938H646.578V73H635.234V11.5938H614.609V3.90625H667.203Z"/>
+    <path class="txt_16" d="M704.891 19.8438C708.328 20.0312 711.453 20.875 714.266 22.375C717.078 23.8125 719.422 25.75 721.297 28.1875C723.234 30.5625 724.734 33.3438 725.797 36.5312C726.859 39.7188 727.391 43.125 727.391 46.75C727.391 50.375 726.828 53.7812 725.703 56.9688C724.641 60.0938 723.141 62.8438 721.203 65.2188C719.266 67.5312 716.891 69.4062 714.078 70.8438C711.266 72.2812 708.203 73.125 704.891 73.375V64.375C708.016 63.6875 710.547 61.7188 712.484 58.4688C714.484 55.2188 715.484 51.3125 715.484 46.75C715.484 44.4375 715.234 42.2812 714.734 40.2812C714.297 38.2188 713.609 36.375 712.672 34.75C711.734 33.125 710.609 31.7812 709.297 30.7188C707.984 29.6562 706.516 28.9688 704.891 28.6562V19.8438Z"/>
+    <path class="txt_17" d="M678.734 46.5625C678.734 42.9375 679.266 39.5625 680.328 36.4375C681.391 33.3125 682.891 30.5938 684.828 28.2812C686.828 25.9062 689.203 24 691.953 22.5625C694.703 21.125 697.734 20.25 701.047 19.9375V28.6562C697.922 29.3438 695.422 31.3125 693.547 34.5625C691.672 37.8125 690.734 41.7188 690.734 46.2812C690.734 48.5938 690.953 50.7812 691.391 52.8438C691.891 54.9062 692.578 56.75 693.453 58.375C694.328 60 695.391 61.3438 696.641 62.4062C697.953 63.4688 699.422 64.125 701.047 64.375V73.375C697.609 73.125 694.516 72.2812 691.766 70.8438C689.016 69.3438 686.672 67.4062 684.734 65.0312C682.797 62.6562 681.297 59.875 680.234 56.6875C679.234 53.5 678.734 50.125 678.734 46.5625Z"/>
+    <path class="txt_18" d="M52.8594 126.906V196H41.6094V164.875H15.5469V157.188H41.6094V126.906H52.8594Z"/>
+    <path class="txt_19" d="M0.265625 126.906H11.7031V196H0.265625V126.906Z"/>
+    <path class="txt_20" d="M94.5781 142.844C98.0156 143.031 101.141 143.875 103.953 145.375C106.766 146.812 109.109 148.75 110.984 151.188C112.922 153.562 114.422 156.344 115.484 159.531C116.547 162.719 117.078 166.125 117.078 169.75C117.078 173.375 116.516 176.781 115.391 179.969C114.328 183.094 112.828 185.844 110.891 188.219C108.953 190.531 106.578 192.406 103.766 193.844C100.953 195.281 97.8906 196.125 94.5781 196.375V187.375C97.7031 186.688 100.234 184.719 102.172 181.469C104.172 178.219 105.172 174.312 105.172 169.75C105.172 167.438 104.922 165.281 104.422 163.281C103.984 161.219 103.297 159.375 102.359 157.75C101.422 156.125 100.297 154.781 98.9844 153.719C97.6719 152.656 96.2031 151.969 94.5781 151.656V142.844Z"/>
+    <path class="txt_21" d="M68.4219 169.562C68.4219 165.938 68.9531 162.562 70.0156 159.438C71.0781 156.312 72.5781 153.594 74.5156 151.281C76.5156 148.906 78.8906 147 81.6406 145.562C84.3906 144.125 87.4219 143.25 90.7344 142.938V151.656C87.6094 152.344 85.1094 154.312 83.2344 157.562C81.3594 160.812 80.4219 164.719 80.4219 169.281C80.4219 171.594 80.6406 173.781 81.0781 175.844C81.5781 177.906 82.2656 179.75 83.1406 181.375C84.0156 183 85.0781 184.344 86.3281 185.406C87.6406 186.469 89.1094 187.125 90.7344 187.375V196.375C87.2969 196.125 84.2031 195.281 81.4531 193.844C78.7031 192.344 76.3594 190.406 74.4219 188.031C72.4844 185.656 70.9844 182.875 69.9219 179.688C68.9219 176.5 68.4219 173.125 68.4219 169.562Z"/>
+    <path class="txt_22" d="M141.922 143.125L143.141 148.562V177.25V177.438V196H131.797V143.125H141.922Z"/>
+    <path class="txt_23" d="M146.984 145.469C148.547 144.594 150.422 143.938 152.609 143.5C154.797 143 157.766 142.75 161.516 142.75V154.562C159.766 154.062 157.641 153.781 155.141 153.719C153.766 153.719 152.359 153.844 150.922 154.094C149.547 154.281 148.234 154.594 146.984 155.031V145.469Z"/>
+    <path class="txt_24" d="M184.953 196H173.516V143.125H184.953V196Z"/>
+    <path class="txt_25" d="M185.984 126.25C185.984 128.125 185.328 129.719 184.016 131.031C182.703 132.281 181.109 132.906 179.234 132.906C177.359 132.906 175.766 132.25 174.453 130.938C173.203 129.625 172.578 128.062 172.578 126.25C172.578 124.375 173.234 122.781 174.547 121.469C175.859 120.156 177.422 119.5 179.234 119.5C181.109 119.5 182.703 120.156 184.016 121.469C185.328 122.781 185.984 124.375 185.984 126.25Z"/>
+    <path class="txt_26" d="M199.672 158.219C199.672 155.844 200.109 153.719 200.984 151.844C201.859 149.906 203.078 148.281 204.641 146.969C206.203 145.594 207.953 144.531 209.891 143.781C211.891 142.969 213.953 142.469 216.078 142.281V151.656C214.453 151.969 213.172 152.625 212.234 153.625C211.359 154.625 210.922 156.031 210.922 157.844C210.922 159.344 211.391 160.562 212.328 161.5C213.328 162.375 214.578 163.156 216.078 163.844V173.875C215.016 173.562 213.922 173.219 212.797 172.844C211.734 172.406 210.672 171.938 209.609 171.438C206.297 169.688 203.797 167.844 202.109 165.906C200.484 163.969 199.672 161.406 199.672 158.219Z"/>
+    <path class="txt_27" d="M230.984 154.281C229.297 153.406 227.484 152.75 225.547 152.312C223.672 151.875 221.797 151.594 219.922 151.469V142.188C222.734 142.312 225.328 142.719 227.703 143.406C230.078 144.031 232.391 145.062 234.641 146.5L230.984 154.281Z"/>
+    <path class="txt_28" d="M204.641 184.188C205.891 185.062 207.359 185.875 209.047 186.625C210.797 187.375 212.984 187.75 215.609 187.75H216.078V196.469C214.516 196.469 213.078 196.406 211.766 196.281C210.453 196.219 209.141 196.031 207.828 195.719C206.578 195.344 205.297 194.844 203.984 194.219C202.672 193.594 201.297 192.781 199.859 191.781L204.641 184.188Z"/>
+    <path class="txt_29" d="M219.922 165.344C221.797 165.969 223.703 166.656 225.641 167.406C227.578 168.156 229.328 169.094 230.891 170.219C232.516 171.344 233.828 172.75 234.828 174.438C235.891 176.062 236.422 178.125 236.422 180.625C236.422 183.062 235.984 185.188 235.109 187C234.234 188.812 233.047 190.375 231.547 191.688C230.109 193 228.391 194.031 226.391 194.781C224.391 195.531 222.234 196.031 219.922 196.281V187.375C222.047 187 223.672 186.344 224.797 185.406C225.984 184.406 226.578 183.094 226.578 181.469C226.578 179.844 225.922 178.594 224.609 177.719C223.359 176.781 221.797 175.969 219.922 175.281V165.344Z"/>
+    <path class="txt_30" d="M251.141 123.156H262.484V196H251.141V123.156Z"/>
+    <path class="txt_31" d="M290.516 148.938C291.578 150 292.391 151.25 292.953 152.688C293.578 154.062 294.016 155.531 294.266 157.094C294.578 158.594 294.766 160.125 294.828 161.688C294.891 163.25 294.922 164.781 294.922 166.281V194.125V196H283.484V167.219C283.484 165.094 283.391 163.062 283.203 161.125C283.016 159.188 282.578 157.469 281.891 155.969C281.203 154.469 280.266 153.312 279.078 152.5C277.891 151.625 276.234 151.188 274.109 151.188C273.234 151.188 272.047 151.344 270.547 151.656C269.109 151.906 267.703 152.344 266.328 152.969V145.75C268.016 144.875 269.828 144.125 271.766 143.5C273.766 142.875 275.703 142.562 277.578 142.562C280.391 142.562 282.766 143.156 284.703 144.344C286.641 145.469 288.578 147 290.516 148.938Z"/>
+    <path class="txt_32" d="M333.078 142.844C336.516 143.031 339.641 143.875 342.453 145.375C345.266 146.812 347.609 148.75 349.484 151.188C351.422 153.562 352.922 156.344 353.984 159.531C355.047 162.719 355.578 166.125 355.578 169.75C355.578 173.375 355.016 176.781 353.891 179.969C352.828 183.094 351.328 185.844 349.391 188.219C347.453 190.531 345.078 192.406 342.266 193.844C339.453 195.281 336.391 196.125 333.078 196.375V187.375C336.203 186.688 338.734 184.719 340.672 181.469C342.672 178.219 343.672 174.312 343.672 169.75C343.672 167.438 343.422 165.281 342.922 163.281C342.484 161.219 341.797 159.375 340.859 157.75C339.922 156.125 338.797 154.781 337.484 153.719C336.172 152.656 334.703 151.969 333.078 151.656V142.844Z"/>
+    <path class="txt_33" d="M306.922 169.562C306.922 165.938 307.453 162.562 308.516 159.438C309.578 156.312 311.078 153.594 313.016 151.281C315.016 148.906 317.391 147 320.141 145.562C322.891 144.125 325.922 143.25 329.234 142.938V151.656C326.109 152.344 323.609 154.312 321.734 157.562C319.859 160.812 318.922 164.719 318.922 169.281C318.922 171.594 319.141 173.781 319.578 175.844C320.078 177.906 320.766 179.75 321.641 181.375C322.516 183 323.578 184.344 324.828 185.406C326.141 186.469 327.609 187.125 329.234 187.375V196.375C325.797 196.125 322.703 195.281 319.953 193.844C317.203 192.344 314.859 190.406 312.922 188.031C310.984 185.656 309.484 182.875 308.422 179.688C307.422 176.5 306.922 173.125 306.922 169.562Z"/>
+    <path class="txt_34" d="M375.547 126.438C377.422 126.438 379.016 127.094 380.328 128.406C381.641 129.719 382.297 131.281 382.297 133.094C382.297 133.406 382.266 134.156 382.203 135.344C382.141 136.469 381.859 137.844 381.359 139.469C380.859 141.094 379.984 142.906 378.734 144.906C377.547 146.844 375.797 148.781 373.484 150.719H369.078C370.328 149.531 371.359 148.281 372.172 146.969C372.984 145.656 373.641 144.469 374.141 143.406C374.703 142.219 375.172 141.031 375.547 139.844C373.672 139.844 372.078 139.188 370.766 137.875C369.516 136.562 368.891 134.969 368.891 133.094C368.891 131.219 369.516 129.656 370.766 128.406C372.078 127.094 373.672 126.438 375.547 126.438Z"/>
+    <path class="txt_35" d="M394.859 158.219C394.859 155.844 395.297 153.719 396.172 151.844C397.047 149.906 398.266 148.281 399.828 146.969C401.391 145.594 403.141 144.531 405.078 143.781C407.078 142.969 409.141 142.469 411.266 142.281V151.656C409.641 151.969 408.359 152.625 407.422 153.625C406.547 154.625 406.109 156.031 406.109 157.844C406.109 159.344 406.578 160.562 407.516 161.5C408.516 162.375 409.766 163.156 411.266 163.844V173.875C410.203 173.562 409.109 173.219 407.984 172.844C406.922 172.406 405.859 171.938 404.797 171.438C401.484 169.688 398.984 167.844 397.297 165.906C395.672 163.969 394.859 161.406 394.859 158.219Z"/>
+    <path class="txt_36" d="M426.172 154.281C424.484 153.406 422.672 152.75 420.734 152.312C418.859 151.875 416.984 151.594 415.109 151.469V142.188C417.922 142.312 420.516 142.719 422.891 143.406C425.266 144.031 427.578 145.062 429.828 146.5L426.172 154.281Z"/>
+    <path class="txt_37" d="M399.828 184.188C401.078 185.062 402.547 185.875 404.234 186.625C405.984 187.375 408.172 187.75 410.797 187.75H411.266V196.469C409.703 196.469 408.266 196.406 406.953 196.281C405.641 196.219 404.328 196.031 403.016 195.719C401.766 195.344 400.484 194.844 399.172 194.219C397.859 193.594 396.484 192.781 395.047 191.781L399.828 184.188Z"/>
+    <path class="txt_38" d="M415.109 165.344C416.984 165.969 418.891 166.656 420.828 167.406C422.766 168.156 424.516 169.094 426.078 170.219C427.703 171.344 429.016 172.75 430.016 174.438C431.078 176.062 431.609 178.125 431.609 180.625C431.609 183.062 431.172 185.188 430.297 187C429.422 188.812 428.234 190.375 426.734 191.688C425.297 193 423.578 194.031 421.578 194.781C419.578 195.531 417.422 196.031 415.109 196.281V187.375C417.234 187 418.859 186.344 419.984 185.406C421.172 184.406 421.766 183.094 421.766 181.469C421.766 179.844 421.109 178.594 419.797 177.719C418.547 176.781 416.984 175.969 415.109 175.281V165.344Z"/>
+    <path class="txt_39" d="M472.484 126.906H483.734V196H472.484V126.906Z"/>
+    <path class="txt_40" d="M492.359 126.906C495.297 126.906 498.203 127.375 501.078 128.312C503.953 129.25 506.516 130.656 508.766 132.531C511.078 134.406 512.922 136.688 514.297 139.375C515.734 142 516.453 144.969 516.453 148.281C516.453 151.781 515.859 154.969 514.672 157.844C513.484 160.656 511.828 163.031 509.703 164.969C507.578 166.906 505.016 168.406 502.016 169.469C499.016 170.531 495.703 171.062 492.078 171.062H487.578V162.812H494.047C495.422 162.812 496.766 162.594 498.078 162.156C499.453 161.656 500.703 160.875 501.828 159.812C502.953 158.75 503.859 157.281 504.547 155.406C505.234 153.469 505.578 151.094 505.578 148.281C505.578 147.156 505.422 145.875 505.109 144.438C504.797 142.938 504.141 141.531 503.141 140.219C502.203 138.844 500.859 137.719 499.109 136.844C497.359 135.906 495.047 135.438 492.172 135.438H487.578V126.906H492.359Z"/>
+    <path class="txt_41" d="M553.578 142.844C557.016 143.031 560.141 143.875 562.953 145.375C565.766 146.812 568.109 148.75 569.984 151.188C571.922 153.562 573.422 156.344 574.484 159.531C575.547 162.719 576.078 166.125 576.078 169.75C576.078 173.375 575.516 176.781 574.391 179.969C573.328 183.094 571.828 185.844 569.891 188.219C567.953 190.531 565.578 192.406 562.766 193.844C559.953 195.281 556.891 196.125 553.578 196.375V187.375C556.703 186.688 559.234 184.719 561.172 181.469C563.172 178.219 564.172 174.312 564.172 169.75C564.172 167.438 563.922 165.281 563.422 163.281C562.984 161.219 562.297 159.375 561.359 157.75C560.422 156.125 559.297 154.781 557.984 153.719C556.672 152.656 555.203 151.969 553.578 151.656V142.844Z"/>
+    <path class="txt_42" d="M527.422 169.562C527.422 165.938 527.953 162.562 529.016 159.438C530.078 156.312 531.578 153.594 533.516 151.281C535.516 148.906 537.891 147 540.641 145.562C543.391 144.125 546.422 143.25 549.734 142.938V151.656C546.609 152.344 544.109 154.312 542.234 157.562C540.359 160.812 539.422 164.719 539.422 169.281C539.422 171.594 539.641 173.781 540.078 175.844C540.578 177.906 541.266 179.75 542.141 181.375C543.016 183 544.078 184.344 545.328 185.406C546.641 186.469 548.109 187.125 549.734 187.375V196.375C546.297 196.125 543.203 195.281 540.453 193.844C537.703 192.344 535.359 190.406 533.422 188.031C531.484 185.656 529.984 182.875 528.922 179.688C527.922 176.5 527.422 173.125 527.422 169.562Z"/>
+    <path class="txt_43" d="M600.922 143.125L602.141 148.562V177.25V177.438V196H590.797V143.125H600.922Z"/>
+    <path class="txt_44" d="M605.984 145.469C607.547 144.594 609.422 143.938 611.609 143.5C613.797 143 616.766 142.75 620.516 142.75V154.562C618.766 154.062 616.641 153.781 614.141 153.719C612.766 153.719 611.359 153.844 609.922 154.094C608.547 154.281 607.234 154.594 605.984 155.031V145.469Z"/>
+    <path class="txt_45" d="M647.703 179.969C647.703 182.094 647.984 183.75 648.547 184.938C649.109 186.125 649.891 187.031 650.891 187.656C651.953 188.281 653.109 188.688 654.359 188.875C655.672 189 657.047 189.062 658.484 189.062V196C657.672 196.125 656.859 196.219 656.047 196.281C655.359 196.344 654.516 196.375 653.516 196.375C652.578 196.438 651.641 196.469 650.703 196.469C649.766 196.469 648.797 196.438 647.797 196.375C646.859 196.312 646.047 196.219 645.359 196.094C643.234 195.719 641.578 194.812 640.391 193.375C639.203 191.875 638.297 190.25 637.672 188.5C637.109 186.688 636.734 184.938 636.547 183.25C636.422 181.562 636.359 180.25 636.359 179.312V150.812H629.422V143.125H636.359V128.125H647.703V143.125H656.141V150.812H647.703V179.969Z"/>
+    <path class="txt_46" d="M694.391 131.031C693.141 131.031 692.078 131.344 691.203 131.969C690.391 132.594 689.703 133.469 689.141 134.594C688.578 135.719 688.172 137.031 687.922 138.531C687.672 139.969 687.516 141.5 687.453 143.125H695.609V150.812H687.266V155.312V196H675.828V155.312V150.812H668.891V143.125H676.016C676.203 140.438 676.578 137.875 677.141 135.438C677.703 132.938 678.578 130.781 679.766 128.969C681.016 127.094 682.672 125.594 684.734 124.469C686.859 123.344 689.516 122.781 692.703 122.781C693.641 122.781 694.641 122.875 695.703 123.062C696.766 123.188 697.797 123.375 698.797 123.625C699.859 123.812 700.828 124.062 701.703 124.375C702.578 124.688 703.266 125.031 703.766 125.406L700.109 132.156C699.234 131.656 698.172 131.344 696.922 131.219C695.734 131.094 694.891 131.031 694.391 131.031Z"/>
+    <path class="txt_47" d="M736.016 142.844C739.453 143.031 742.578 143.875 745.391 145.375C748.203 146.812 750.547 148.75 752.422 151.188C754.359 153.562 755.859 156.344 756.922 159.531C757.984 162.719 758.516 166.125 758.516 169.75C758.516 173.375 757.953 176.781 756.828 179.969C755.766 183.094 754.266 185.844 752.328 188.219C750.391 190.531 748.016 192.406 745.203 193.844C742.391 195.281 739.328 196.125 736.016 196.375V187.375C739.141 186.688 741.672 184.719 743.609 181.469C745.609 178.219 746.609 174.312 746.609 169.75C746.609 167.438 746.359 165.281 745.859 163.281C745.422 161.219 744.734 159.375 743.797 157.75C742.859 156.125 741.734 154.781 740.422 153.719C739.109 152.656 737.641 151.969 736.016 151.656V142.844Z"/>
+    <path class="txt_48" d="M709.859 169.562C709.859 165.938 710.391 162.562 711.453 159.438C712.516 156.312 714.016 153.594 715.953 151.281C717.953 148.906 720.328 147 723.078 145.562C725.828 144.125 728.859 143.25 732.172 142.938V151.656C729.047 152.344 726.547 154.312 724.672 157.562C722.797 160.812 721.859 164.719 721.859 169.281C721.859 171.594 722.078 173.781 722.516 175.844C723.016 177.906 723.703 179.75 724.578 181.375C725.453 183 726.516 184.344 727.766 185.406C729.078 186.469 730.547 187.125 732.172 187.375V196.375C728.734 196.125 725.641 195.281 722.891 193.844C720.141 192.344 717.797 190.406 715.859 188.031C713.922 185.656 712.422 182.875 711.359 179.688C710.359 176.5 709.859 173.125 709.859 169.562Z"/>
+    <path class="txt_49" d="M784.484 179.875C784.484 182 784.766 183.688 785.328 184.938C785.891 186.125 786.672 187.031 787.672 187.656C788.672 188.219 789.797 188.594 791.047 188.781C792.359 188.969 793.766 189.062 795.266 189.062V196C794.453 196.125 793.609 196.219 792.734 196.281C792.047 196.344 791.234 196.375 790.297 196.375C789.359 196.438 788.422 196.469 787.484 196.469C786.547 196.469 785.609 196.438 784.672 196.375C783.734 196.312 782.891 196.219 782.141 196.094C780.016 195.656 778.359 194.719 777.172 193.281C775.984 191.844 775.078 190.25 774.453 188.5C773.828 186.688 773.422 184.938 773.234 183.25C773.109 181.562 773.047 180.25 773.047 179.312V178.188V123.156H784.484V179.875Z"/>
+    <path class="txt_50" d="M818.609 196H807.172V143.125H818.609V196Z"/>
+    <path class="txt_51" d="M819.641 126.25C819.641 128.125 818.984 129.719 817.672 131.031C816.359 132.281 814.766 132.906 812.891 132.906C811.016 132.906 809.422 132.25 808.109 130.938C806.859 129.625 806.234 128.062 806.234 126.25C806.234 124.375 806.891 122.781 808.203 121.469C809.516 120.156 811.078 119.5 812.891 119.5C814.766 119.5 816.359 120.156 817.672 121.469C818.984 122.781 819.641 124.375 819.641 126.25Z"/>
+    <path class="txt_52" d="M859.391 142.844C862.828 143.031 865.953 143.875 868.766 145.375C871.578 146.812 873.922 148.75 875.797 151.188C877.734 153.562 879.234 156.344 880.297 159.531C881.359 162.719 881.891 166.125 881.891 169.75C881.891 173.375 881.328 176.781 880.203 179.969C879.141 183.094 877.641 185.844 875.703 188.219C873.766 190.531 871.391 192.406 868.578 193.844C865.766 195.281 862.703 196.125 859.391 196.375V187.375C862.516 186.688 865.047 184.719 866.984 181.469C868.984 178.219 869.984 174.312 869.984 169.75C869.984 167.438 869.734 165.281 869.234 163.281C868.797 161.219 868.109 159.375 867.172 157.75C866.234 156.125 865.109 154.781 863.797 153.719C862.484 152.656 861.016 151.969 859.391 151.656V142.844Z"/>
+    <path class="txt_53" d="M833.234 169.562C833.234 165.938 833.766 162.562 834.828 159.438C835.891 156.312 837.391 153.594 839.328 151.281C841.328 148.906 843.703 147 846.453 145.562C849.203 144.125 852.234 143.25 855.547 142.938V151.656C852.422 152.344 849.922 154.312 848.047 157.562C846.172 160.812 845.234 164.719 845.234 169.281C845.234 171.594 845.453 173.781 845.891 175.844C846.391 177.906 847.078 179.75 847.953 181.375C848.828 183 849.891 184.344 851.141 185.406C852.453 186.469 853.922 187.125 855.547 187.375V196.375C852.109 196.125 849.016 195.281 846.266 193.844C843.516 192.344 841.172 190.406 839.234 188.031C837.297 185.656 835.797 182.875 834.734 179.688C833.734 176.5 833.234 173.125 833.234 169.562Z"/>
+  </g>
+</svg>
