@@ -1,14 +1,8 @@
 <template>
   <header>
     <VAppBar app elevate-on-scroll color="primary">
-      <VToolbarTitle>
-        <VBtn @click="moveToTop()" x-large depressed color="primary black--text">Horisho</VBtn>
-      </VToolbarTitle>
-
-      <VSpacer></VSpacer>
-
       <VToolbarItems>
-        <VBtn v-for="item in items" :key="item.title" :href="item.route" depressed color="primary black--text" x-small>
+        <VBtn v-for="item in items" :key="item.title" :href="item.route" depressed color="primary black--text" large>
         {{ item.title }}
         </VBtn>
       </VToolbarItems>
@@ -22,9 +16,10 @@ export default {
   data() {
     return {
       items: [
-        { title: "About", route: "/#about"},
-        { title: "Skills", route: "/#skills"},
-        { title: "Products", route: "/#products"},
+        { title: "Home", route: "/"},
+        { title: "About", route: "/about"},
+        { title: "Skills", route: "/skills"},
+        { title: "Products", route: "/products"},
         // { title: "Posts", route: "/#posts"},
       ],
     }
