@@ -2,8 +2,8 @@
   <defs>
     <style>
       #wrap_all path {
-        fill: #111;
-        stroke: #111;
+        fill: #333333;
+        stroke: #333333;
         stroke-width: 2px;
       }
 
