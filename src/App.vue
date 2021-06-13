@@ -19,6 +19,7 @@ export default {
 
 <style lang="scss">
 #app {
+  background-color: var(--v-primary-base);
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -26,6 +27,6 @@ export default {
   color: #2c3e50;
 }
 h1 {
-  border-bottom: medium solid var(--v-secondary-base);
+  border-bottom: medium solid var(--v-accent-base);
 }
 </style>
