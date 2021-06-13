@@ -5,7 +5,7 @@
     </VRow>
     <VRow>
       <VCol cols="12" sm="6" v-for="(item, i) in items" :key="i" style="height:100%;">
-        <VCard :href="item.url" target="_blank" >
+        <VCard :href="item.url" target="_blank" color="primary">
           <VCardTitle class="purple--text text-center">
             {{ item.title }}
           </VCardTitle>
