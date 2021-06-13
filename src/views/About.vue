@@ -20,7 +20,7 @@
     </VRow>
     <VRow justify="center">
       <VCol sm="9" cols="12" class="text-left">
-        <VRow justify="left" class="mb">
+        <VRow justify="start" class="mb">
           <VCol sm="2" cols="3" class="text-left">
             <h2><span class="font-weight-black accent--text mr-1">|</span>Recent</h2>
           </VCol>
