@@ -20,12 +20,12 @@ export default {
   data() {
     return {
       boxes: [
-        { class: "square1 animated" },
-        { class: "square2 animated" },
-        { class: "square3 animated" },
-        { class: "circle1 animated" },
-        { class: "circle2 animated" },
-        { class: "circle3 animated" },
+        { class: "square1 animated-left-bottom" },
+        { class: "square2 animated-right-top" },
+        { class: "square3 animated-right-bottom" },
+        { class: "circle1 animated-left-top" },
+        { class: "circle2 animated-left-bottom" },
+        { class: "circle3 animated-right-bottom" },
       ]
     }
   }
@@ -123,17 +123,52 @@ export default {
     animation-delay: 6s;
     animation-fill-mode: forwards;
 }
-@keyframes move-y {
+@keyframes move-left-bottom {
   from {
-    transform: translateY(0);
+    transform: translate(0,0) rotate(20deg) scale(1);
   }
   to {
-    transform: translateY(10px);
+    transform: translate(-10px,10px) rotate(20deg) scale(1.05);
   }
 }
-.animated {
-  animation: move-y 0.5s infinite alternate ease-in-out;
-  animation-fill-mode: forwards;
+@keyframes move-right-bottom {
+  from {
+    transform: translate(0,0) rotate(20deg) scale(1);
+  }
+  to {
+    transform: translate(10px,10px) rotate(20deg) scale(1.05);
+  }
+}
+@keyframes move-left-top {
+  from {
+    transform: translate(0,0) rotate(20deg) scale(1);
+  }
+  to {
+    transform: translate(-10px,-10px) rotate(20deg) scale(1.05);
+  }
+}
+@keyframes move-right-top {
+  from {
+    transform: translate(0,0) rotate(20deg) scale(1);
+  }
+  to {
+    transform: translate(10px,-10px) rotate(20deg) scale(1.05);
+  }
+}
+.animated-left-top {
+  animation: move-left-top 1.5s infinite alternate ease-in-out;
+  display: inline-block;
+}
+.animated-right-top {
+  animation: move-right-top 1.5s infinite alternate ease-in-out;
+  display: inline-block;
+}
+.animated-left-bottom {
+  animation: move-left-bottom 1.5s infinite alternate ease-in-out;
+  display: inline-block;
+}
+.animated-right-bottom {
+  animation: move-right-bottom 1.5s infinite alternate ease-in-out;
   display: inline-block;
 }
 </style>
