@@ -5,7 +5,7 @@
     </VRow>
     <VRow justify="center" align="center">
       <VCol sm="3" cols="12">
-        <VImg :src="require('../assets/horisho.jpeg')" max-width="30vw" max-height="30vh" style="margin:auto;" contain ></VImg>
+        <VImg :src="require('../assets/horisho.png')" max-width="30vw" max-height="30vh" style="margin:auto;" contain ></VImg>
       </VCol>
       <VCol sm="3" cols="12">
         <VList>
