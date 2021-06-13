@@ -1,7 +1,7 @@
 <template>
   <VContainer>
     <VRow justify="center">
-      <h1>Products</h1>
+      <h1>Works</h1>
     </VRow>
     <VRow>
       <VCol cols="12" sm="6" v-for="(item, i) in items" :key="i" style="height:100%;">

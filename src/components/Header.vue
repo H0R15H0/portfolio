@@ -39,7 +39,7 @@ export default {
         { title: "Home", route: "/"},
         { title: "About", route: "/about"},
         { title: "Skills", route: "/skills"},
-        { title: "Products", route: "/products"},
+        { title: "Works", route: "/works"},
         // { title: "Posts", route: "/#posts"},
       ],
       drawer: false,
