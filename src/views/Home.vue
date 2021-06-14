@@ -3,7 +3,7 @@
     <VContainer>
       <VRow justify="center" align="center">
         <VCol cols="9" md="12" class="block">
-          <VImg :src="require('@/assets/welcome.svg')" max-width="700px" style="margin: auto;"></VImg>
+          <VImg :src="require('@/assets/welcome.svg')" max-width="700px" style="margin: auto;" eager></VImg>
         </VCol>
       </VRow>
     </VContainer>
