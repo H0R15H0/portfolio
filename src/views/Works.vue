@@ -31,7 +31,7 @@ export default {
         { title: "nikoha", imgSrc: require("../assets/nikoha.png"), url: "https://github.com/H0R15H0/C_2012", skill: "HTML, CSS, JS, flask, openCV" , text: '2人の笑顔ではんこを押せる、オンライン提出用の婚姻届作成サービス。' },
         { title: "お家Bar", imgSrc: require("../assets/ouchibar.png"), url: "http://www.ouchi-bar.com/", skill: "ruby on rails, Vue.js" , text: 'お家にあるお酒とコンビニで買える材料から作れるカクテルを紹介するサービス。※現在改良中' },
         { title: "trimo", imgSrc: require("../assets/trimo.png"), url: "https://trimo.netlify.app/", skill: "ruby on rails, Vue.js" , text: '自分の旅を記録し、それを他の人が参考にできるサービス。' },
-        { title: "Portfolio", imgSrc: require("../assets/portfolio.png"), url: "/", skill: "ruby on rails, Vue.js" , text: '本ポートフォリオサイトです。' },
+        { title: "Portfolio", imgSrc: require("../assets/portfolio.png"), url: "/", skill: "Vue.js" , text: '本ポートフォリオサイトです。' },
       ]
     }
   }
