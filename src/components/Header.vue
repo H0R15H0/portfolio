@@ -40,6 +40,7 @@ export default {
         { title: "About", route: "/about"},
         { title: "Skills", route: "/skills"},
         { title: "Works", route: "/works"},
+        { title: "Contact", route: "/contact"},
         // { title: "Posts", route: "/#posts"},
       ],
       drawer: false,
