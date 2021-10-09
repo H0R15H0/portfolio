@@ -4,3 +4,11 @@
 This is my portfolio site!
 
 https://horisho.netlify.app/
+
+
+# Usage
+```bash
+docker-compose build
+docker-compose run --rm app npm install
+docker-compose up # open localhost:8080
+```
