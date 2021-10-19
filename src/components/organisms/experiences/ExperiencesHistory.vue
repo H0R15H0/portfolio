@@ -1,6 +1,9 @@
 <template>
-  <VTimeline>
+  <VTimeline :dense="$vuetify.breakpoint.xs">
     <VTimelineItem v-for="item in items" :key="item.title" :color="colors[item.tag]">
+      <template v-if="$vuetify.breakpoint.xs">
+        <p>{{ item.date }}</p>
+      </template>
       <template v-slot:opposite>
         <span class="font-weight-bold">{{ item.date }}</span>
       </template>
