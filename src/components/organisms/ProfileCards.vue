@@ -24,9 +24,9 @@ export default {
   data() {
     return {
       items: [
-        { title: "Profile", imgSrc: require("../assets/profile.png"), contents:["堀崎祥", "名古屋大学", "2001/01/31"] },
-        { title: "Favorite", imgSrc: require("../assets/aquarium.png"), contents:["水族館", "映画鑑賞"] },
-        // { title: "Qualification", imgSrc: require("../assets/qualification.png"), contents:["TOIEC: 000", "hogehoge"] },
+        { title: "Profile", imgSrc: require("@/assets/profile.png"), contents:["堀崎祥", "名古屋大学", "2001/01/31"] },
+        { title: "Favorite", imgSrc: require("@/assets/aquarium.png"), contents:["水族館", "映画鑑賞"] },
+        // { title: "Qualification", imgSrc: require("@/assets/qualification.png"), contents:["TOIEC: 000", "hogehoge"] },
       ]
     }
   },
