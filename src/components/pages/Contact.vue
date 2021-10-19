@@ -6,6 +6,10 @@
     <VRow justify="center" class="mt-5">
       <VIcon x-large class="ma-3" @click="window.open('https://github.com/H0R15H0', '_blank')">mdi-github</VIcon>
       <VIcon x-large class="ma-3" @click="window.open('https://twitter.com/H0R15H0', '_blank')">mdi-twitter</VIcon>
+      <div class="ma-3" style="width:40px; height:40px;">
+        <VImg @click="window.open('https://qiita.com/horisho13', '_blank')" :src="require('@/assets/qiita.png')"></VImg>
+      </div>
+      
       <a href="mailto:info.horisho13@gmail.com"><VIcon x-large class="ma-3">mdi-email</VIcon></a>
     </VRow>
     <VRow justify="center">
