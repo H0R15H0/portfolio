@@ -1,7 +1,7 @@
 <template>
   <header>
     <VAppBar app flat color="primary">
-      <div v-if="$vuetify.breakpoint.xs">
+      <div v-if="$vuetify.breakpoint.smAndDown">
         <VAppBarNavIcon @click.stop="drawer = !drawer"></VAppBarNavIcon>
         <VNavigationDrawer v-model="drawer" app class="primary" hide-overlay width="100vw" height="auto" style="box-shadow:initial;">
           <VList>
