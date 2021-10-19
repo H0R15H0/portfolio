@@ -23,7 +23,7 @@ export default {
       items: [
         { title: "HarmonyFor 長期インターン", date: "2020/09 ~ 現在", tag: "internship", skills: "Rails, Vue, MySQL, Docker", role: "バックエンド、フロントエンド", content: "留学生の就活支援サービスの開発・運用。アジャイルな開発スタイルやDDDに則った開発を経験。開発に使用したライブラリ(OSS)にも貢献。" },
         { title: "jphacks2020", date: "2020/10", tag: "hackathon", skills: "Flask, OpenCV, HTML, CSS, JS", role: "バックエンド、フロントエンド", content: "テーマ「XTech」で2人の笑顔ではんこを押せる、オンライン提出用の婚姻届作成サービス「nikoha」を開発。結果：中部地区3位" },
-        { title: "Akatsuki 短期就労型インターン", date: "2020/07", tag: "internship", skills: "Rails, MySQL, Docker, GitHub Actions, Jenkins", role: "バックエンド", content: "ゲームバックエンドを開発。運用機能改善やAPIの高速化（N+1問題の解消など）に貢献。" },
+        { title: "Akatsuki 短期就労型インターン", date: "2021/07", tag: "internship", skills: "Rails, MySQL, Docker, GitHub Actions, Jenkins", role: "バックエンド", content: "ゲームバックエンドを開発。運用機能改善やAPIの高速化（N+1問題の解消など）に貢献。" },
         { title: "楽天 ハッカソン型短期インターン", date: "2021/09", tag: "internship", skills: "Rails, React, TypeScript, MySQL, Docker", role: "バックエンド、フロントエンド、マネジメント", content: "テーマ「人々を熱狂させるもの」でプロダクトを開発。結果：優勝" },
       ],
       colors: {
