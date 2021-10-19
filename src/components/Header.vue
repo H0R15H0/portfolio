@@ -38,6 +38,7 @@ export default {
       items: [
         { title: "Home", route: "/"},
         { title: "About", route: "/about"},
+        { title: "Experiences", route: "/experiences"},
         { title: "Skills", route: "/skills"},
         { title: "Works", route: "/works"},
         { title: "Contact", route: "/contact"},
