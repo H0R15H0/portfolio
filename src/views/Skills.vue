@@ -35,7 +35,7 @@ export default {
         {name: "React",      imgSrc: require("../assets/react_light.png"),   time: "3ヶ月", description: "TSと合わせて使用しました。趣味開発のフロントエンド、ハッカソンのフロントエンドで使いました。現在ブログをreactで開発中。。。"},
         {name: "Go",         imgSrc: require("../assets/gopher.png"),   time: "3ヶ月", description: "ブログのバックエンドをgoで開発中。。。流行りの言語なのと静的型付き言語のバックエンド開発に興味を持ったので使い始めました。"},
         {name: "HTML/CSS",   imgSrc: require("../assets/HTMLCSS_light.png"), time: "2年", description: "初めて作ったWebアプリはHTML, CSSを使いました。ハッカソンで使ったり後輩に教えながら使ったりしています。タグやスタイルの暗記をしていないのでGoogle先生に頼ることが多いです。"},
-        {name: "C/C++",      imgSrc: require("../assets/cpp_light.png"),     time: "1年", description: "大学の授業で使いました。基本文法やポインタの概念を学びました。授業の中でコマンドラインで動くぷよぷよのようなものを作りました。"},
+        {name: "C/C++",      imgSrc: require("../assets/cpp_light.png"),     time: "1年", description: "大学の授業で使いました。基本文法やポインタの概念を学びました。授業の中でコマンドラインで動くぷよぷよのようなものを作りました。最近は競プロで使用しています。"},
         {name: "C#",         imgSrc: require("../assets/cs_light.png"),      time: "6ヶ月", description: "Andriodアプリ開発で使用しました。フレームワークはXamarinです。C#のおかげでオブジェクト志向の考え方が理解できました。言語としては好きなのですが、Xamarinの情報がネットに少なすぎて辛かったです。。。"},
         {name: "R",          imgSrc: require("../assets/R_light.png"),       time: "3ヶ月", description: "データマイニングの授業で使いました。データ分析のライブラリを利用しただけなので正直使い込んではいません。。。"},
         {name: "Git/GitHub", imgSrc: require("../assets/github_light.png"),  time: "", description: "プログラミングを始めてからずっと使ってます。インターンでも使用しているので基本的な機能は使えると思います。Zenhubを利用してIssue単位でタスク管理したりしました。"},
