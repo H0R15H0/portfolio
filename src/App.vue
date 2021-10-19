@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import Header from "@/components/Header"
+import Header from "@/components/organisms/shared/Header"
 export default {
   components: {
     Header,

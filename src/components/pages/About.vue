@@ -35,7 +35,7 @@
 </template>
 
 <script>
-import ProfileCards from "@/components/ProfileCards.vue"
+import ProfileCards from "@/components/organisms/ProfileCards.vue"
 
 export default {
   components: {

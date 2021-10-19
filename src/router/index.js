@@ -1,13 +1,13 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 
-import Home from '../views/Home.vue'
-import About from '../views/About.vue'
-import Experiences from '../views/Experiences.vue'
-import Skills from '../views/Skills.vue'
-import Works from '../views/Works.vue'
-import Contact from '../views/Contact.vue'
-import ProductShowPage from '../views/ProductShowPage.vue'
+import Home from '@/components/pages/Home.vue'
+import About from '@/components/pages/About.vue'
+import Experiences from '@/components/pages/Experiences.vue'
+import Skills from '@/components/pages/Skills.vue'
+import Works from '@/components/pages/Works.vue'
+import Contact from '@/components/pages/Contact.vue'
+import ProductShowPage from '@/components/pages/ProductShowPage.vue'
 
 Vue.use(VueRouter)
 
