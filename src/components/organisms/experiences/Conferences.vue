@@ -32,6 +32,7 @@ export default {
       items: [
         { title: "5分でちょっとだけわかった気になれるDockerのすすめ", place: "jack", eventName: "jackResult2021春", description: "", date: "2021/03/20", slideUrl: "https://docs.google.com/presentation/d/e/2PACX-1vSfcTt4IQG38drgmYYo9Iv2m5HxKxPZVK2Ta1POLGRQUGgXpwa_WtC8q-_LGFHmmN2R9K92f82Ux0Qj/embed?start=false&loop=false&delayms=3000" },
         { title: "俺流ググり方講座", place: "jack & Joken", eventName: "jack X JokenコラボLT", description: "テーマ「開発で困ったこと」", date: "2021/09/10", slideUrl: "https://docs.google.com/presentation/d/e/2PACX-1vTu161a0oTMa9cUVqnjJNFc3B2PmwjA4m9XihhWFc1jid6Sq8O3kaLrjAq8Ox1aXfqCY-IFpKk12H5L/embed?start=false&loop=false&delayms=3000" },
+        { title: "お家Bar高速化したよ", place: "jack", eventName: "雑LT", description: "テーマ「技術系」", date: "2021/11/20", slideUrl: "https://docs.google.com/presentation/d/e/2PACX-1vTF8tiF8GrgHOJ_xibq9F_b4dEJWGI2S5JMIPgHCa5G2F6GOlI1NVkhKSa-f4EIaCw7qdFaYFCi3bvn/embed?start=false&loop=false&delayms=3000" },
       ],
     }
   }
