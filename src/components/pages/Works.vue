@@ -33,6 +33,7 @@ export default {
         { title: "trimo", imgSrc: require("@/assets/trimo.png"), url: "https://trimo.netlify.app/", skill: "ruby on rails, Vue.js" , text: '自分の旅を記録し、それを他の人が参考にできるサービス。' },
         { title: "touch_p", imgSrc: require("@/assets/touch_p.png"), url: "https://github.com/H0R15H0/touch_p", skill: "ruby gem, rspec, github actions" , text: "touch_p は 'mkdir -p' のように親ディレクトリがなくともファイルを作成できるcliツールです。" },
         { title: "Portfolio", imgSrc: require("@/assets/portfolio.png"), url: "/", skill: "Vue.js, Vuetify, vue router" , text: '本ポートフォリオサイトです。' },
+        { title: "Horisho's Blog", imgSrc: require("@/assets/blog.png"), url: "https://github.com/H0R15H0/blog", skill: "Go/Gin, next, TS, mysql, ECS on EC2" , text: 'ブログです。現在作成中。。。' },
       ]
     }
   }
